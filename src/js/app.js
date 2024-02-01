@@ -9,6 +9,6 @@ import { Zombie } from "./Zombie";
 const a = new Character('Bobik', 'Bowman');
 console.log(a);
 
-const b = new Zombie ('Pushok', 'Swordsman');
+const b = new Zombie ('Pushok', 'Zombie');
 console.log(b);
 
